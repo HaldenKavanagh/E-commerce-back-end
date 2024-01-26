@@ -1,11 +1,12 @@
 # E-commerce Back end
 
 ## Table of Contents
+
 1. [Description](#description)
 2. [Installation](#installation-instructions)
 3. [Usage](#usage-information)
 4. [Demo video](#demo-video)
-7. [Questions](#questions)
+5. [Questions](#questions)
 
 ## Description
 
@@ -23,6 +24,7 @@ The comments above each route detail the http route for it's corresponding reque
 
 My 10 video limit in screencastify has been reached, so i used OBS to capture my screen instead. In the videos folder (videos\walkthrough-video.remuxed.mp4), there is a mp4 file wich is a full walkthrough demo of my app's backend functionality. The file is too large to be played on the github website. You can however view the video in vscode if cloned. I am attatching the demo video in my assignment submission as well.
 
+![walkthrough-video](/videos/walkthrough-video.remuxed.mp4)
 
 ## Questions
 
