@@ -1,8 +1,9 @@
-# E-commerce-back-end
+Todo
 
+get by id routes
+put routes
+delete routes
+walkthrough video
+create readme
 
-WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
-THEN I am able to successfully create, update, and delete data in my database
-
-Your database should contain the following four models, including the requirements listed for each model:
 
