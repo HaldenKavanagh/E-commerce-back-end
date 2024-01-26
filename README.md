@@ -1,9 +1,1 @@
-Todo
-
-
-put routes
-delete routes
-walkthrough video
-create readme
-
-
+![demo-video](/videos/walkthrough-video.mp4)
